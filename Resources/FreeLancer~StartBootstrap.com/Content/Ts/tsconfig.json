@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "system",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outDir": "../js",
+        "sourceMap": true,
+        "target": "es6",
+    },
+    "include": [
+        "*"
+    ],
+    "exclude": [
+        "**/*.spec.ts"
+    ]
+}
